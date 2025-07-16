@@ -1,7 +1,7 @@
 # RPG Game FreeCodeCamp Exercise - Ejercicio Juego De Rol FreeCodeCamp
 
-EN: This was an exercise carried out on the freeCodeCamp platform of JavaScript Algorithms and Data Structures.
-ES: Este fue un ejercicio realizado en la plataforma freeCodeCamp de Algoritmos y Estructuras de Datos en JavaScript.
+**EN:** _This was an exercise carried out on the freeCodeCamp platform of JavaScript Algorithms and Data Structures._\
+**ES:** _Este fue un ejercicio realizado en la plataforma freeCodeCamp de Algoritmos y Estructuras de Datos en JavaScript.
 
-**Puedes ver la versión desplegada de la app aquí:**\
+🔗 **Live Demo / Demo en Línea:**\
 https://unrivaled-biscochitos-44f82f.netlify.app/
